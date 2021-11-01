@@ -8,9 +8,7 @@ output:
     toc_depth: 4
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 ## 1	Project Objectives 
 
 <h3>Produce a report of survey that conveys information on:</h3>
@@ -126,3 +124,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+```{.r .distill-force-highlighting-css}
+```

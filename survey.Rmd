@@ -1,7 +1,7 @@
 ---
 title: "Survey"
 description: |
-  A Survey of Indonesia's New National Capital Development Plan. Click the link below to access our Report!
+  Click the link below to access our Report!
 
 ---
 

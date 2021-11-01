@@ -1,7 +1,7 @@
 ---
 title: "Poster"
 description: |
-  Poster of possible developments for East Kalimantan
+  SMT201 Project Poster
 
 ---
 
