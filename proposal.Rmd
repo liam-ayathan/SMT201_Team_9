@@ -122,8 +122,5 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="img/Gannt Chart.JPG" class="centerImage" style="width: 150%;">
 </p>
 
-{r layout="l-body-outset"}
-knitr::include_graphics("img/Gannt Chart.JPG")
-
 
 
