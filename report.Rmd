@@ -12,6 +12,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <a href="https://docs.google.com/document/d/1tGaDd11ZTlXejogHfq9jgltYw5pbw-H0iCk6k3hhJFE/edit">Report</a>
 
-Hi
 
 
