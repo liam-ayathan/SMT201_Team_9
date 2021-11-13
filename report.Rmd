@@ -21,4 +21,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <p style="text-align:center"><em>Figure 1: Map of the chosen Study Area at scale 1:1270000 with OpenStreetMap (OSM) as a background layer.</em></p>
 
-Our Study Area covers all sub-districts and districts of Kota Balikpapan, Kota Samarinda, and selected kecamatan (districts) and sub-districts of North Penajam Paser and Kutai Kartanegara Regencies
+<p style="text-align: justify;">Our Study Area covers all sub-districts and districts of Kota Balikpapan, Kota Samarinda, and selected kecamatan (districts) and sub-districts of North Penajam Paser and Kutai Kartanegara Regencies </p>
