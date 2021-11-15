@@ -10,5 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
+</style>
+<p style="text-align:center">
+<img src="img/poster.JPG" style="width: 150%;">
+</p>
 
