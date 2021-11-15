@@ -5,14 +5,14 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Overview"
+    - text: "Introduction"
       href: index.html
+    - text: "Report of Survey"
+      href: report.html
     - text: "Proposal"
       href: proposal.html
     - text: "Poster"
       href: poster.html
-    - text: "Report"
-      href: report.html
     - text: "Reflection"
       href: reflection.html
 output: distill::distill_article
