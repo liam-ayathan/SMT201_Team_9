@@ -1,7 +1,7 @@
 ---
 title: "Ibu Kota Negara - Transitioning to the Future"
 description: |
-  This page provides information about the background and motivation behind this project. Done up by Team 9 for SMT201: Geographic Information Systems for Urban Planning
+  This page provides information about the background and motivation behind this project. Done up by Team 9 for SMT201: Geographic Information Systems for Urban Planning.
 author:
   - name: Liam Wells Ayathan 
     #url: https://example.com/norajones
