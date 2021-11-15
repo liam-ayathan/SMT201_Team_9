@@ -1,0 +1,97 @@
+---
+title: "Ibu Kota Negara - Transitioning to the Future"
+description: |
+  This page provides information about the background and motivation behind this project. Done up by Team 9 for SMT201: Geographic Information Systems for Urban Planning.
+author:
+  - name: Liam Wells Ayathan 
+    #url: https://example.com/norajones
+    affiliation: Singapore Management University, School of Computing and Information Systems
+    #affiliation_url: https://example.com/spacelysprokets
+  - name: Ng Yu Xin 
+    #url: https://example.com/norajones
+    affiliation: Singapore Management University, School of Computing and Information Systems
+    #affiliation_url: https://example.com/spacelysprokets
+  - name: Shiv Narayanan
+    #url: https://example.com/norajones
+    affiliation: Singapore Management University, School of Computing and Information Systems
+    #affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 1 Background: Jakarta and the need for change
+
+![](img/Jakarta.jfif)
+*Source: BBC News*
+
+<p style="text-align: justify;">In late August 2019, the Indonesian government announced plans to move its current capital from Jakarta to the province of East Kalimantan on the island of Borneo. President Joko Widodo stated that moving the capital was a necessity because Jakarta can no longer manage the constraints of rapid urbanization and overpopulation. Furthermore, flood-prone Jakarta is the world’s fastest sinking city, decreasing in elevation by as much as 10 centimetres per year, greatly accelerating the need to find a new capital.</p>
+
+## 2 Motivation: East Kalimantan, Looking Ahead
+
+![](img/ibu kota negaraku.jpg)
+*Source: Future Southeast Asia*
+
+<p style="text-align: justify;">The moving the capital city or ‘Ibu Kota Negara’ to the island of Borneo would be a way of centralising governance; channelling resources to spur the growth of less developed areas of Indonesia which would help tackle the issue of widespread wealth inequality within the country.</p>
+
+<p style="text-align: justify;">As budding GIS analysts, we were tasked to analyse East Kalimantan and propose a suitable location for the new capital city, complementing the existing work done by the National Development Planning Agency (Bappenas).</p>
+
+
+## 3 Project Objectives 
+
+<h3>Produce a report of survey that conveys information on:</h3>
+
++ Population and Demographic
++ Economic and Business
++ Transport and Communication
++ Infrastructure 
++ Environment and Hazards
+
+<h3>Identify a suitable location for the Ibu Kota Negara based on these features:</h3>
+
++ It should be between 4500-5500 hectares in size
++ It should avoid steep slope.
++ It should be away from potential natural disaster risk areas such as sea coasts, major rivers and volcanoes.
++ It should be near to current urban settlement areas but not at the current major settlement areas.
++ It should avoid natural forest as much as possible.
++ It should avoid areas prone to forest fire.
++ It should be highly accessible via road transport.
++ It should be near to airport(s) and seaport(s).
+
+## 4	Data
+Name | Description |Provider and Link |
+-------------| -------------|-------------|
+Village Boundary of East Kalimantan Province  |   Population demographic information and polygon outline of East Kalimatan at the sub-district level    |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas-desa.html)  |        
+RBI Kutai Kartanegara Regency   | Topographical layers of Kutai Kartanegara    |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)  |
+RBI North Penajam Paser Regency   | Topographical layers of North Penajam Paser    |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)  |
+RBI Balikpapan City   | Topographical layers of Kota Balikpapan    |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)  |
+RBI Samarinda   | Topographical layers of Kota Samarinda    |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)  |
+OSM Settlements   | Locations of buildings throughout Indonesia  |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/12/download-shp-pemukiman-detail-seluruh.html)  |
+DEM SRTM 30m Provinsi Kalimantan Timur | Digital Elevation Model of East Kalimantan at 30m resolution  |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/01/download-dem-srtm-30-meter-se-indonesia.html)  |
+Titik Api Hotspot se-Indonesia Tahun 2014 - 2019| Location of forest fires throughout Indonesia from 2014 - 2019 |[Indonesia Geospatial](https://www.indonesia-geospasial.com/2020/04/shapefile-shp-titik-api-hotspot.html)  |
+Ocean 10m | Ocean polygon derived from 10m ocean coastlines  |[Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-ocean/)  |
+
+
+## 5 Scope of Work
+
+The scope of works for this project includes:
+
++ Data collection,extraction and transformation
++ Preliminary Analysis of the study area by doing a report of survey
++ Taking into account the needs and desires of interested groups who have a stake in the location of the new capital
++ Conducting site suitability analysis based on mulit-criteria evalutation methods like the Analytical Hierarchy Process (AHP)
++ Designing and building a GIS Model and Database
+
+
+## 6 Project Schedule
+
+</style>
+<p style="text-align:center">
+<img src="img/Gannt Chart.JPG" style="width: 120%;">
+</p>
