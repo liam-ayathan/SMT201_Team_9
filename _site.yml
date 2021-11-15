@@ -9,8 +9,8 @@ navbar:
       href: index.html
     - text: "Report of Survey"
       href: report.html
-    - text: "Proposal"
-      href: proposal.html
+    - text: "Site Selection"
+      href: site_selection.html
     - text: "Poster"
       href: poster.html
     - text: "Reflection"

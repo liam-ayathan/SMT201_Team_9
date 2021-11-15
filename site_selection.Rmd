@@ -1,7 +1,7 @@
 ---
 title: "Site Selection"
 description: |
-  Details and In Depth Discussion of our site selection
+  Rational and Process of choosing the new capital area
 ---
 
 ```{r setup, include=FALSE}
