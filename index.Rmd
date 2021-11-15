@@ -4,9 +4,14 @@ title: "SMT201 Project Website"
 ## Team 9
 ![](img/team.png)
 
-<p style="text-align: justify;">Following on the announcement to relocate Indonesia’s capital to Borneo, this project aims to identify a suitable site for the new capital through detailed analysis of the geographical factors of selected districts in East Kalimantan. This move was designed with the objectives of addressing economic and developmental inequality between Jakarta and the rest of Indonesia, in addition to easing the burden of Jakarta and the island of Java as Indonesia's primary hub</p>
+<p style="text-align: justify;">Following on the announcement to relocate Indonesia’s capital to Borneo, this project aims to identify a suitable site for the new capital through detailed analysis of the geographical factors of selected districts in East Kalimantan. This move was designed with the objectives of addressing economic and developmental inequality between Jakarta and the rest of Indonesia, in addition to easing the burden of Jakarta and the island of Java as Indonesia's primary hub.</p>
 
 <p style="text-align: justify;">
 To decide on the most appropriate area for the new capital, we analyzed our study area which is made up of various districts in East Kalimantan and proposed recommendations for a suitable site using factors that we have considered and weighed. </p>
 
-Feel free to browse through the different tabs to learn more about our project!
+Feel free to browse through our project using the tabs above or through these links!:
+
++ [Introduction](https://smt201-team-9.netlify.app/introduction.html)
++ [Report of Survey](https://smt201-team-9.netlify.app/report.html)
++ [Site Selection](https://smt201-team-9.netlify.app/site_selection.html)
++ [Poster](https://smt201-team-9.netlify.app/poster.html)
