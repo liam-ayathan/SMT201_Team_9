@@ -12,7 +12,7 @@ To decide on the most appropriate area for housing the new capital, we would fir
 
 Feel free to learn more about our project through these links:
 
-+ [Introduction](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-ocean/)
-+ [Report of Survey](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-ocean/)
-+ [Site Selection](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-ocean/)
-+ [Poster](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-ocean/)
++ [Introduction](https://smt201-team-9.netlify.app/introduction.html)
++ [Report of Survey](https://smt201-team-9.netlify.app/report.html)
++ [Site Selection](https://smt201-team-9.netlify.app/site_selection.html)
++ [Poster](https://smt201-team-9.netlify.app/poster.html)
