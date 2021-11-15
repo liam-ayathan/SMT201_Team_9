@@ -80,7 +80,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](img/site/figure29.jpg)
 
 <p style="text-align:center"><em>Figure 28: Multi-Criteria Evaluation</em></p>
-<p> </p>
+<p></p>
 
 ![](img/site/figure28.jpg)
 

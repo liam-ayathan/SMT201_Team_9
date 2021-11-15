@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](img/Jakarta.jfif)
 *Source: BBC News*
 
-<p style="text-align: justify;">In late August 2019, the Indonesian government announced plans to move its current capital from Jakarta to the province of East Kalimantan on the island of Borneo. President Joko Widodo stated that moving the capital was a necessity because Jakarta can no longer manage the constraints of rapid urbanization and overpopulation. Furthermore, flood-prone Jakarta is the world’s fastest sinking city, decreasing in elevation by as much as 10 centimetres per year, greatly accelerating the need to find a new capital.</p>
+<p style="text-align: justify;">In August 2019, the Indonesian government announced plans to move its current capital from Jakarta to the province of East Kalimantan on the island of Borneo. President Joko Widodo stated that moving the capital was a necessity because Jakarta can no longer manage the constraints of rapid urbanization and overpopulation. Furthermore, flood-prone Jakarta is the world’s fastest sinking city, decreasing in elevation by as much as 10 centimetres per year, greatly accelerating the need to find a new capital.</p>
 
 ## 2 Motivation: East Kalimantan, Looking Ahead
 
