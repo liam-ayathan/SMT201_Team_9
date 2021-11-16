@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <p style="text-align: justify;">For this page, we will seek to understand the needs of different stakeholders and conduct site suitability analysis to find an appropriate location for the new capital city.</p>
 
 ## 3.1 Interest Groups
-<p style="text-align: justify;">In this section, we will seek to understand the needs of different stakeholders and conduct site suitability analysis to find an appropriate location for the new capital city.</p>
+<p style="text-align: justify;">These are three main groups who have a notable stake in the upcoming re-location of the capital to the island of Borneo. </p>
 
 ### Environmental Groups
 ![](img/site/figure25.jpg)
