@@ -15,3 +15,7 @@ Feel free to browse through our project using the tabs above or through these li
 + [Report of Survey](https://smt201-team-9.netlify.app/report.html)
 + [Site Selection](https://smt201-team-9.netlify.app/site_selection.html)
 + [Poster](https://smt201-team-9.netlify.app/poster.html)
+
+If you would like to see our github repository, check out this link:
+
++ [Github](https://github.com/liam-ayathan/SMT201_Team_9)
